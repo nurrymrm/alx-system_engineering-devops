@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "Shell basics"
+pwd
+chmod u+x 0-current_working_directory
+git add .
+git commit -m 'Shell basics'
+git push
